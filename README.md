@@ -24,7 +24,7 @@ moarDeps.oneDep.doSth();
 moarDeps.oneDep.noDeps.doSth();
 
 
->>>> I'm MoarDeps!
+>> OUTPUT>> I'm MoarDeps!
 I'm NoDeps!
 I'm OneDep!
 I'm NoDeps!
